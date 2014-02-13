@@ -1,0 +1,10 @@
+Package: com.insanj.lockfreeze
+Name: LockFree
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes lock screen pages.
+Maintainer: Julian Weiss <me@insanj.com>
+Author: Julian (insanj) Weiss
+Section: Tweaks
